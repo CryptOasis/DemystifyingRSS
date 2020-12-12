@@ -4,6 +4,7 @@ This is a placeholder for the 'Demystifying RSS' for Cardano presentation hold b
 
 Recorded: Fri 11 Dec 21:00:00 UTC 2020
 
+- [The desmos graph link](https://www.desmos.com/calculator/skl0gevqfz)
 # Diagrams
 
 The following diagrams were used in the presentation.
